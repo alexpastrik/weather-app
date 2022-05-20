@@ -2,3 +2,8 @@ img {
   width: 20%;
   height: 40%;
 }
+
+.weather-app {
+  max-width: 400px;
+  margin: 0 auto;
+}
